@@ -1,0 +1,23 @@
+{
+  "name": "pw2tarea1",
+  "version": "1.0.0",
+  "description": "tarea1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adbelrivera2019/PW2Tarea1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adbelrivera2019/PW2Tarea1/issues"
+  },
+  "homepage": "https://github.com/adbelrivera2019/PW2Tarea1#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "mathjs": "^11.5.0"
+  }
+}
