@@ -1,4 +1,4 @@
-  function suma(numero1=23, numero2=10) {
+  function suma(numero1, numero2) {
       return numero1 + numero2;
 
   }
